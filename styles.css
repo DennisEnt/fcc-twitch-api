@@ -1,0 +1,39 @@
+* {
+  background-color: rgb(185, 209, 218);
+}
+
+body {
+  background-color: rgb(185, 209, 218);
+}
+#header {
+  margin-top: 20px;
+  width: 100%;
+  color: black;
+  text-decoration: underline;
+  background-color: rgb(185, 209, 218);
+}
+
+button {
+  margin: 30px 20px;
+  width: 130px;
+}
+img {
+  width: 40px;
+  margin-right: 10px;
+}
+i {
+  background-color: white;
+}
+
+footer {
+  color: white;
+  list-style: none;
+  padding: 10px;
+  font-size: 25px;
+  display: block;
+  text-align: center;
+}
+.fa-free-code-camp {
+  color: green;
+  background-color: rgb(185, 209, 218);
+}
